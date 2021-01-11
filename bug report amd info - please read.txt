@@ -1,0 +1,1 @@
+visual studio files can be found in /build/x64, made with cmake.
